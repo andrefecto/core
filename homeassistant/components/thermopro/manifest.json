@@ -17,6 +17,10 @@
     {
       "connectable": false,
       "local_name": "TP97*"
+    },
+    {
+      "connectable": true,
+      "local_name": "TP25*"
     }
   ],
   "categories": ["sensors.temperature_humidity", "appliances_cleaning.cooking"],

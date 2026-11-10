@@ -22,6 +22,11 @@
       "set_datetime": {
         "name": "Set date & time"
       }
+    },
+    "sensor": {
+      "probe_temperature": {
+        "name": "Probe {probe_number} temperature"
+      }
     }
   }
 }
